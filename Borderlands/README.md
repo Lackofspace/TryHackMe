@@ -1,7 +1,7 @@
 ﻿# Borderlands
 
 This detailed walkthrough traces the strategic progression of a multi-stage penetration test, beginning with web application reconnaissance and leading through cryptographic analysis, lateral network movement, and ultimately to the exploitation of a BGP routing protocol to intercept critical data.
-This write-up may not be the shortest method for this task. I wanted to walk you through my thought process of problem-solving.
+> ⚠️ *Note: This write-up may not be the shortest method for this task. I wanted to walk you through my thought process of problem-solving.*
 
 
 ## Reconnaissance
